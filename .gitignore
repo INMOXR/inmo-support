@@ -1,3 +1,5 @@
 node_modules
 docs/.vitepress
 .idea
+.zeabur
+.DS_Store
